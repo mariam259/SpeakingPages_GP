@@ -2,8 +2,7 @@
 
 Speaking Pages is an online platform for readers and books using AI. Designed to foster a vibrant reading community. It offers a variety of features to cater to different reading preferences and needs, empowering users to explore the world of literature in a convenient and engaging way.
 
-[LinkedIn](https://www.linkedin.com/company/speaking-pages)  [Facebook](https://m.facebook.com/p/ورقات-ناطقة-Speaking-Pages-61561034143636/?refid=52&_tn_=%2Cg&wtsid=rdr_0IySCH7yjcxlbaGNv)
-[website demo](https://drive.google.com/file/d/1a4t505RqH322_RBUmgNSOpM8-EeT0sfI/view?usp=sharing)  [mobile app demo](https://drive.google.com/file/d/1HSEzI0zNYZW1C06MAOEclHGzoJ-9IP2u/view?usp=sharing)
+[LinkedIn](https://www.linkedin.com/company/speaking-pages) &nbsp; [Facebook](https://m.facebook.com/p/ورقات-ناطقة-Speaking-Pages-61561034143636/?refid=52&_tn_=%2Cg&wtsid=rdr_0IySCH7yjcxlbaGNv) &nbsp; [website demo](https://drive.google.com/file/d/1a4t505RqH322_RBUmgNSOpM8-EeT0sfI/view?usp=sharing) &nbsp; [mobile app demo](https://drive.google.com/file/d/1HSEzI0zNYZW1C06MAOEclHGzoJ-9IP2u/view?usp=sharing)
 ## Key Features
 
 ### 1) Book Clubs

@@ -15,7 +15,7 @@ Easily convert PDF books into audio files using artificial intelligence. This fe
 Enhance your reading with a Chat Assistant powered by ChatGPT, which can answer questions or even provide recommendations.
 
 ### 4) Book Marketplace
-Buy new or used books directly through the app. Browse available books, complete purchases securely using Stripe integration, and even sell your own books to declutter your shelves and share your love of reading.
+Buy new or used books directly through the app. Browse available books, complete purchases securely using Stripe integration, and even sell your books to declutter your shelves and share your love of reading.
 
 ### 5) Library Locator
 Find nearby libraries, view their details, and get directions to expand your access to physical books and resources.
@@ -23,7 +23,7 @@ Find nearby libraries, view their details, and get directions to expand your acc
 ### 6) Reading Tracking and Analysis
 Set weekly reading goals, track your progress, and analyze your reading habits over time. Gain insights into your reading journey and identify areas for improvement.
 
-#### 7) Discussions
+### 7) Discussions
 Engage in lively discussions about books with fellow readers. Share your thoughts, ask questions, learn from others' perspectives, and enrich your understanding of the text. This feature utilizes Socket.IO technology for real-time communication, fostering a dynamic reading community.
 
 ## Technical Implementation

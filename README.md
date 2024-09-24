@@ -1,6 +1,6 @@
-# Speaking Page - Graduation Project
+# Speaking Pages - Graduation Project
 
-Speaking Page is an online platform for readers and books using AI. Designed to foster a vibrant reading community. It offers a variety of features to cater to different reading preferences and needs, empowering users to explore the world of literature in a convenient and engaging way.
+Speaking Pages is an online platform for readers and books using AI. Designed to foster a vibrant reading community. It offers a variety of features to cater to different reading preferences and needs, empowering users to explore the world of literature in a convenient and engaging way.
 
 [LinkedIn](https://www.linkedin.com/company/speaking-pages)  [Facebook](https://m.facebook.com/p/ورقات-ناطقة-Speaking-Pages-61561034143636/?refid=52&_tn_=%2Cg&wtsid=rdr_0IySCH7yjcxlbaGNv)
 ## Key Features
